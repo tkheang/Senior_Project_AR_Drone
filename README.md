@@ -1,5 +1,9 @@
-#CPP ECE Senior Project
-Doing cool stuff with the Parrot AR Drone 2.0
+CPP ECE Senior Project
 
-#Required
-https://github.com/felixge/node-ar-drone
+**References**  
+https://developer.leapmotion.com/documentation/javascript/index.html
+
+**Required Software**  
+https://github.com/felixge/node-ar-drone  
+https://github.com/hybridgroup/cylon-leapmotion  
+https://github.com/hybridgroup/cylon-ardrone
